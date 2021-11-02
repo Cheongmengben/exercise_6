@@ -1,4 +1,0 @@
-#Mon Nov 01 16:46:22 MYT 2021
-base.0=/home/meng/exercise_6/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
